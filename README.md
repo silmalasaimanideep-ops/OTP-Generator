@@ -10,7 +10,7 @@ To get a new OTP, the user must click **"Generate OTP"** again.
 
 ## 🌐 Live Demo
 
-👉 YOUR_DEMO_LINK_HERE
+👉https://otp-generator-2ma.pages.dev/
 
 ---
 
